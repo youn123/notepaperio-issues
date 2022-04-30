@@ -1,2 +1,2 @@
 # notepaperio-docs
-Notetaking app in the web that combines Markdown and sketch blocks.
+Notepaper.io is currently not open source. This is a public facing repo meant for tracking issues and bugs.
